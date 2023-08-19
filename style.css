@@ -1,0 +1,37 @@
+body {
+    background-color: dimgray;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 46px;
+    color: whitesmoke;
+}
+
+.link {
+    font-size: 20px;
+}
+
+.link.green {
+    color: green;
+}
+
+.link.white {
+    color: white;
+}
+
+.link.red {
+    color: red;
+}
+
+#green {
+    color: green;
+}
+
+#white {
+    color: white;
+}
+
+#red {
+    color: red;
+}
