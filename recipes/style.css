@@ -1,3 +1,7 @@
+div {
+    margin: 15px;
+}
+
 body {
     background-image: -webkit-linear-gradient(#F3C77D, #7B7F42);
 }
@@ -13,4 +17,7 @@ img {
 
 h3 {
     color: #F3C77D;
+}
+.lists {
+    padding: 3px;
 }
