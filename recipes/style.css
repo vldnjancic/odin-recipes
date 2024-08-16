@@ -1,0 +1,22 @@
+* {
+    margin: 20px 20px;
+}
+
+.sausage {
+  height: 512px;
+  width: auto;
+}
+
+.title {
+    font-weight: 900;
+}
+
+.unordered li {
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+
+.ordered li {
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
